@@ -1,0 +1,13 @@
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\bin\Debug\netcoreapp3.1\collections-lanjutan.exe
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\bin\Debug\netcoreapp3.1\collections-lanjutan.deps.json
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\bin\Debug\netcoreapp3.1\collections-lanjutan.runtimeconfig.json
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\bin\Debug\netcoreapp3.1\collections-lanjutan.runtimeconfig.dev.json
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\bin\Debug\netcoreapp3.1\collections-lanjutan.dll
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\bin\Debug\netcoreapp3.1\collections-lanjutan.pdb
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.csprojAssemblyReference.cache
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.AssemblyInfoInputs.cache
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.AssemblyInfo.cs
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.csproj.CoreCompileInputs.cache
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.dll
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.pdb
+D:\pemrograman semester 2\tugas\collections-lanjutan\collections-lanjutan\collections-lanjutan\obj\Debug\netcoreapp3.1\collections-lanjutan.genruntimeconfig.cache
